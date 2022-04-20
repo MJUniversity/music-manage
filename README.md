@@ -1,6 +1,6 @@
 # music-manage
 
-> A Vue.js project
+> music后台
 
 ## Build Setup
 
