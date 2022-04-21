@@ -2,6 +2,11 @@
 
 > music后台
 
+```angular2html
+node -v ： v12.9.0
+vue -V  ： 2.9.6
+npm -v  :  6.10.2
+```
 ## Build Setup
 
 ``` bash
